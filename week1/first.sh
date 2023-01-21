@@ -4,4 +4,4 @@ echo "My name is Anjali!"
 echo "Hi There!"
 figlet "hello"
 figlet "Anjali"
-exit 0
+exit 22

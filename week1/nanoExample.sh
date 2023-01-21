@@ -1,3 +1,3 @@
-#!bin/bash
-Echo "Hi there from Nano"
+#!/bin/bash
+echo "Hi there from Nano"
 exit 0
